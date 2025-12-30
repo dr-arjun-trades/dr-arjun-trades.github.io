@@ -3,3 +3,4 @@ description: Bookmark this to keep an eye on my project updates!
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-architect
+header { display: none; }
